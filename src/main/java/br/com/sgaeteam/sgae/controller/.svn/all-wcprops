@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller
+END
+AlunosController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller/AlunosController.java
+END
+InstrutoresController.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller/InstrutoresController.java
+END
+EstadosController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller/EstadosController.java
+END
+ClientesController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller/ClientesController.java
+END
+PerfisController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller/PerfisController.java
+END
+OrgaoEmissorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller/OrgaoEmissorController.java
+END
+UsuariosController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/controller/UsuariosController.java
+END

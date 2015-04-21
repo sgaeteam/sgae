@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao
+END
+AlunoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/AlunoDAO.java
+END
+EstadoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/EstadoDAO.java
+END
+PerfilDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/PerfilDAO.java
+END
+ClienteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/ClienteDAO.java
+END
+EnderecoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/EnderecoDAO.java
+END
+ContatoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/ContatoDAO.java
+END
+UsuarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/UsuarioDAO.java
+END
+OrgaoEmissorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/OrgaoEmissorDAO.java
+END
+UnidadeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/dao/UnidadeDAO.java
+END

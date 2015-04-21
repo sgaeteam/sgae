@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra
+END
+CriadorDeSessoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/CriadorDeSessoes.java
+END
+Perfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/Perfil.java
+END
+PermissaoInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/PermissaoInterceptor.java
+END
+Permissao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/Permissao.java
+END
+FabricaDeSessoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/FabricaDeSessoes.java
+END
+UsuarioSessao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/UsuarioSessao.java
+END
+Publico.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/Publico.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/SgaeTeam/sgae/svn/!svn/ver/100/src/br/com/sgaeteam/sgae/infra/Util.java
+END

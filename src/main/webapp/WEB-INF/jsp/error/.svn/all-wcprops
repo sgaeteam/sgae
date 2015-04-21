@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/SgaeTeam/sgae/svn/!svn/ver/101/WebContent/WEB-INF/jsp/error
+END
+500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SgaeTeam/sgae/svn/!svn/ver/101/WebContent/WEB-INF/jsp/error/500.jsp
+END
+403.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SgaeTeam/sgae/svn/!svn/ver/101/WebContent/WEB-INF/jsp/error/403.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SgaeTeam/sgae/svn/!svn/ver/101/WebContent/WEB-INF/jsp/error/404.jsp
+END
+503.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SgaeTeam/sgae/svn/!svn/ver/101/WebContent/WEB-INF/jsp/error/503.jsp
+END
+405.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SgaeTeam/sgae/svn/!svn/ver/101/WebContent/WEB-INF/jsp/error/405.jsp
+END
